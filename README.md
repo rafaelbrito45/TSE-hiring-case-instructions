@@ -1,13 +1,15 @@
 # TSE hiring case instructions - Rafael Brito
 
 Open a terminal window in the directory **rtbhouse-server** and run
+```
 > npm install
 > npm run start:dev
-
+```
 Open another terminal window in the directory **rtbhouse-client** and run
+```
 >npm install
 >npm run dev
-
+````
 ## e2e Testing
 To run the e2e testing open a terminal window inside the **rtbhouse-server** directory and run 
 > npm test
