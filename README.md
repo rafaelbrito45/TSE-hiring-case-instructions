@@ -2,17 +2,23 @@
 
 Open a terminal window in the directory **rtbhouse-server** and run
 ```
-> npm install
-> npm run start:dev
+ npm install
+```
+```
+npm run start:dev
 ```
 Open another terminal window in the directory **rtbhouse-client** and run
 ```
-> npm install
-> npm run dev
+npm install
+```
+```
+ npm run dev
 ````
 ## e2e Testing
 To run the e2e testing open a terminal window inside the **rtbhouse-server** directory and run 
-> npm test
+```
+npm test
+```
 
 The front end consists in two main pages alongside the subpages with more details about a single product or a single client
 
