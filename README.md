@@ -8,7 +8,7 @@ Open another terminal window in the directory **rtbhouse-client** and run
 >npm install
 >npm run dev
 
-## e2e Testting
+## e2e Testing
 To run the e2e testing open a terminal window inside the **rtbhouse-server** directory and run 
 > npm test
 
